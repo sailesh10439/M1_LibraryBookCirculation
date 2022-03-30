@@ -1,0 +1,26 @@
+\hypertarget{structbook}{}\doxysection{book Struct Reference}
+\label{structbook}\index{book@{book}}
+
+
+Collaboration diagram for book\+:
+% FIG 0
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{structbook_a0f4de042a59c15b2d2743a9e895a6583}\label{structbook_a0f4de042a59c15b2d2743a9e895a6583}} 
+char {\bfseries Auth\+Name} \mbox{[}20\mbox{]}
+\item 
+\mbox{\Hypertarget{structbook_a3c1d5c843762d59f9a8238ea3ef8add7}\label{structbook_a3c1d5c843762d59f9a8238ea3ef8add7}} 
+char {\bfseries Book\+Name} \mbox{[}20\mbox{]}
+\item 
+\mbox{\Hypertarget{structbook_a201b9552ad7c64d11415a8a3d437a71d}\label{structbook_a201b9552ad7c64d11415a8a3d437a71d}} 
+int {\bfseries count}
+\item 
+\mbox{\Hypertarget{structbook_aeb83e31afe57a86361cc5a7998e568e1}\label{structbook_aeb83e31afe57a86361cc5a7998e568e1}} 
+struct \mbox{\hyperlink{structbook}{book}} $\ast$ {\bfseries next}
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+code\+\_\+1.\+c\end{DoxyCompactItemize}
