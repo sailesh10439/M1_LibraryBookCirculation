@@ -1,27 +1,26 @@
-Who:
-Online shopping simulation is the application which is used for easy shopping. It is used by all users to shop and it is flexible to everyone.
+<h1> Who: </h1>
+Library Book Circulation is the application which is used for easy way to search or to store the date about the book information.
 
-What:
-It is convenient and easy for shopping.
+<h1> What: </h1>
+It is convenient and easy for storing the data.
 
-When:
-It can be used by anyone.
+<h1> When: </h1>
+It can be used by any shops.
 
-Where:
-It is flexible to everyone in online platform.
+<h1> Where: </h1>
+It is flexible and easy to use.
 
-Who:
-This project is implemented to do shopping online by entering the lopgin credentials.
+<h1> Who: </h1>
+This project is implemented to check the status of perticular book by give that book details.
 
-SWOT Analysis:
-Strengths:
-1.It saves lot of time for the users. 2.They could do their shopping online from home.
+<h1> SWOT Analysis: </h1>
+<h1> Strengths: </h1>
+1.It saves lot of time for the users. 2.It can save the papers (like instead of writting in paper, we can upload the information in computers.
 
-Weaknesses:
-1.User name and password may be confidential. 2.May be miss used.
+<h1> Weaknesses: </h1>
+1.It is easy to understand the process. 2.May be miss used.
+<h1> Opportunities: </h1>
+1.This can be used to build a strong data of books. 2.can add more categories.
 
-Opportunities:
-1.This can be used to build a strong data. 2.can add more categories.
-
-Threats:
-1.It has become more common in digital life so it is causing to more difficulties.
+<h1> Threats: </h1>
+1.It would become more common in digital life so it is causing to more difficulties.
