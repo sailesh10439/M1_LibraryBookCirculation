@@ -15,7 +15,7 @@ This project is implemented to check the status of perticular book by give that 
 
 <h1> SWOT Analysis: </h1>
 <h1> Strengths: </h1>
-1.It saves lot of time for the users. 2.It can save the papers (like instead of writting in paper, we can upload the information in computers.
+1.It saves lot of time for the users. 2.It can save the papers (like instead of writting in paper, we can upload the information in computers).
 
 <h1> Weaknesses: </h1>
 1.It is easy to understand the process. 2.May be miss used.
