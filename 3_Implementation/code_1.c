@@ -209,7 +209,7 @@ temp = temp->next;
 }
 }
 else if(num==7){
-printf("\n\n\nClosing KLU Library Management System\n\n\n");
+printf("\n\n\nClosing Student Library Management System\n\n\n");
 break;
 }
 }
