@@ -2,4 +2,4 @@
 
 #analysis [![CI Analysis](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/analysis.yml/badge.svg)](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/analysis.yml)
 
-#cppttest [![CI continuous integration](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/c-cpp.yml)
+#cpptest [![CI continuous integration](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/c-cpp.yml)
