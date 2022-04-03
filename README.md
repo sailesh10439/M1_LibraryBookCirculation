@@ -3,3 +3,5 @@
 #analysis [![CI Analysis](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/analysis.yml/badge.svg)](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/analysis.yml)
 
 #cpptest [![CI continuous integration](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/c-cpp.yml)
+
+#unity testing [![built and test](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/built%20and%20test.yml/badge.svg)](https://github.com/sailesh10439/M1_LibraryBookCirculation/actions/workflows/built%20and%20test.yml)
