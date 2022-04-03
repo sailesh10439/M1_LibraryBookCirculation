@@ -1,0 +1,23 @@
+name: built and test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: configure
+      run: ./configure
+    - name: built
+      run: .\built and test
+    - name: test 
+      run: .\built and test
+    - name: make distcheck
+      run: make distcheck
